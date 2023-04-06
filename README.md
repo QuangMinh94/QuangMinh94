@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuangMinh94
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React,Typescript
+- 💞️ I’m looking to collaborate on React,Typescript
 - 📫 How to reach me quangminhdinh38@gmail.com
 
 <!---
