@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @QuangMinh94
+- 👋 Hi, I’m @QuangMinh94 (Minh)
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React,Typescript
-- 💞️ I’m looking to collaborate on React,Typescript
+- 🌱 I’m currently a FrontEnd developer with knowledge of ReactJS, CSS, Typescript, NodeJS, MongoDB and a little bit of Golang
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me quangminhdinh38@gmail.com
 
 <!---
